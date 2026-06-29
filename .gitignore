@@ -1,0 +1,29 @@
+# Binary
+/pirates-gold
+/pirates-gold.exe
+*.exe
+
+# Runtime output files
+/found.txt
+/used.txt
+/stats.txt
+
+# Claude Code IDE settings
+.claude/
+
+# Go build & test artifacts
+*.test
+*.out
+/vendor/
+
+# Environment & secrets
+.env
+.env.*
+*.env
+*.key
+*.pem
+secrets.*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
