@@ -1,6 +1,6 @@
 # ☠️ Pirates Gold
 
-**EN** | [RU](#-pirates-gold-ru)
+**EN** | [RU](#%EF%B8%8F-pirates-gold-ru)
 
 > *The ocean of addresses is vast. The treasure is real. The odds are yours to defy.*
 
@@ -192,10 +192,12 @@ Each run appends a new session block. Existing data is never overwritten.
 
 ## Author
 
-**Ground_Zerro** · Pirates Gold v.1.1
+**Ground_Zerro** · Pirates Gold v.1.2
 
 ---
 ---
+
+<a id="pirates-gold-ru"></a>
 
 # ☠️ Pirates Gold <sup>RU</sup>
 
