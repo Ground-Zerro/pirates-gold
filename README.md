@@ -80,7 +80,7 @@ Each provider has dedicated workers. Blockstream runs at a hardcoded safe rate. 
 Requires Go 1.21+.
 
 ```bash
-git clone https://github.com/Ground_Zerro/pirates-gold
+git clone https://github.com/Ground-Zerro/pirates-gold
 cd pirates-gold
 make build
 ```
@@ -279,7 +279,7 @@ Bitcoin-адрес (начинается с "1")
 Требуется Go 1.21+.
 
 ```bash
-git clone https://github.com/Ground_Zerro/pirates-gold
+git clone https://github.com/Ground-Zerro/pirates-gold
 cd pirates-gold
 make build
 ```
